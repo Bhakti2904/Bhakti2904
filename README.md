@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Bhakti Parsaniya
 
-<!--
-**Bhakti2904/Bhakti2904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Computer Engineering student  
+☁️ Aspiring Cloud Developer | 🐍 Python Programmer | ⚙️ DevOps Learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+
+- Build web apps using **Python + Flask**
+- Deploy projects on **Microsoft Azure**
+- Automate tasks with **GitHub Actions**
+- Learn and apply **DevOps, CI/CD, and Linux**
+
+---
+
+## 🔧 Tech Stack
+
+- **Languages:** Python, HTML/CSS, JavaScript, Bash
+- **Cloud:** Azure (App Services, ACI, Storage)
+- **Tools:** Git, GitHub, Postman, VS Code
+- **Other:** Flask, Jinja2, Bootstrap, SQLite
+
+---
+
+## 📂 Projects
+
+- 🎯 [FunFactly](https://github.com/Bhakti2904/funfactly) – A fun Flask web app that gives you random facts  
+- 🗳️ Digital Suggestion Box – A cloud-powered minor project combining QA + Azure (in progress)
+
+---
+
+## 📫 Reach Me At
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/bhakti-parsaniya-492234267/)  
+- 📧 parsaniyabhakti29@gmail.com  
+
+---
+
+> “I deploy what I build — simple as that.” ☁️🚀
