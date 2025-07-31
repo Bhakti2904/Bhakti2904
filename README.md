@@ -21,15 +21,7 @@
 - **Tools:** Git, GitHub, Postman, VS Code
 - **Other:** Flask, Jinja2, Bootstrap, SQLite
 
----
-
-## 📂 Projects
-
-- 🎯 [FunFactly](https://github.com/Bhakti2904/funfactly) – A fun Flask web app that gives you random facts  
-- 🗳️ Digital Suggestion Box – A cloud-powered minor project combining QA + Azure (in progress)
-- 📊 [Autoviz - Smart Data Visualizer](https://github.com/Bhakti2904/Autoviz-Smart-Data-Visualizer) – An intelligent tool that auto-generates data visualizations using Python and AutoViz to simplify EDA
-
----
+--- 
 
 ## 📫 Reach Me At
 
