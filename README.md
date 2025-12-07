@@ -1,33 +1,61 @@
-# 👋 Hi, I'm Bhakti Parsaniya
+<h1 align="center">👋 Hi, I'm Bhakti Parsaniya</h1>
 
-🎓 Final-year Computer Engineering student  
-☁️ Aspiring Cloud Developer | 🐍 Python Programmer | ⚙️ DevOps Learner
+<h3 align="center">💡 Aspiring QA Engineer | Manual + API + Basic Automation</h3>
 
----
-
-## 🚀 What I Do
-
-- Build web apps using **Python + Flask**
-- Deploy projects on **Microsoft Azure**
-- Automate tasks with **GitHub Actions**
-- Learn and apply **DevOps, CI/CD, and Linux**
+<p align="center">
+🔍 Passionate about Testing, Quality, and ensuring smooth user experiences.  
+</p>
 
 ---
 
-## 🔧 Tech Stack
+## 🧪 About Me
 
-- **Languages:** Python, HTML/CSS, JavaScript, Bash
-- **Cloud:** Azure (App Services, ACI, Storage)
-- **Tools:** Git, GitHub, Postman, VS Code
-- **Other:** Flask, Jinja2, Bootstrap, SQLite
-
---- 
-
-## 📫 Reach Me At
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/bhakti-parsaniya-492234267/)  
-- 📧 parsaniyabhakti29@gmail.com  
+- 🎓 Final-year Computer Engineering student  
+- 🧠 Skilled in **Manual Testing, API Testing, and Basic Automation (Selenium + Python + PyTest)**  
+- 💻 Experienced with **JIRA, GitHub, Postman, MySQL, Chrome DevTools, Azure**  
+- 🚀 **Found true passion in QA**  
+- 📌 Believe: *“Good code works. Great code is tested.”*
 
 ---
 
-> “I deploy what I build — simple as that.” ☁️🚀
+## 🧰 Skills & Tools
+
+### ✔ **Testing Skills**
+- Functional, UI, Regression, Smoke, Sanity  
+- Test Case Design (Positive, Negative, Boundary Value Analysis)  
+- Bug Reporting & Tracking  
+- STLC, SDLC, Test Plan, Test Summary, Test Strategy  
+- Cross-browser testing (BrowserStack)
+
+### ✔ **Tools & Platforms**
+- **Postman**, JIRA, GitHub, VS Code  
+- **Selenium WebDriver**, PyTest  
+- Chrome DevTools  
+- Azure App Service (Deployment Testing)
+
+### ✔ **Programming & Databases**
+- Python | Java  
+- MySQL | MongoDB  
+- HTML5, CSS3, JS (Basics)
+
+---
+
+## 📜 Certifications
+
+- Postman API Fundamentals – *Student Expert*  
+- Microsoft Azure Fundamentals – AZ-900  
+- Atlassian Jira Fundamentals  
+- Microsoft SQL Server – A to Z (Udemy)  
+- C Programming – TechnoHacks  
+
+---
+
+## 📫 Connect With Me
+
+🔗 **LinkedIn:** www.linkedin.com/in/bhakti-parsaniya/  
+📧 **Email:** parsaniyabhakti29@gmail.com  
+💼 **GitHub:** https://github.com/Bhakti2904  
+
+---
+
+<h3 align="center">✨ Always learning, always testing. Let's build quality software together! ✨</h3>
